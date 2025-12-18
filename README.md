@@ -270,7 +270,7 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 - [SkillCreator.ai](https://skillcreator.ai/build) - Generate skills from plain English
 - [Browse Skills](https://skillcreator.ai/discover) - Visual skill gallery
-- [npm Package](https://www.npmjs.com/package/ai-agent-skills) - CLI installer
+- [npm Package](https://github.com/skillcreatorai/Ai-Agent-Skills) - CLI installer (`npx ai-agent-skills`)
 
 ## License
 
