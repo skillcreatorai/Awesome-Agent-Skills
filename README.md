@@ -161,6 +161,7 @@ This repo curates the best in one place. Quality over quantity. All skills follo
 | Skill | Description | Install |
 |-------|-------------|---------|
 | [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace) | Automate git operations and repository interactions | External |
+| [pm-skills](https://github.com/product-on-purpose/pm-skills) | 24 product management skills across 6 Triple Diamond phases (discover, define, develop, deliver, launch, learn) | External |
 | [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace) | Evaluate code implementation plans | External |
 | [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | Detect failing tests and propose fixes | External |
 
