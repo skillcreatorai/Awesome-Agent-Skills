@@ -104,6 +104,7 @@ This repo curates the best in one place. Quality over quantity. All skills follo
 | [python-development](https://github.com/skillcreatorai/Ai-Agent-Skills) | Modern Python 3.12+ patterns | `npx ai-agent-skills install python-development` |
 | [javascript-typescript](https://github.com/skillcreatorai/Ai-Agent-Skills) | ES6+, Node, React, TypeScript | `npx ai-agent-skills install javascript-typescript` |
 | [aws-skills](https://github.com/zxkane/aws-skills) | AWS development with CDK best practices | External |
+| [Emblem AI Agent Wallet](https://github.com/EmblemCompany/Agent-skills/tree/main/skills/emblem-ai-agent-wallet) | Multi-chain crypto wallet management (Solana, Ethereum, Base, BSC, Polygon, Hedera, Bitcoin), swaps and transfers | External |
 | [D3.js Visualization](https://github.com/chrisvoncsefalvay/claude-d3js-skill) | D3 charts and interactive data visualizations | External |
 | [Playwright Automation](https://github.com/lackeyjb/playwright-skill) | Browser automation for testing web apps | External |
 | [iOS Simulator](https://github.com/conorluddy/ios-simulator-skill) | Interact with iOS Simulator for testing | External |
