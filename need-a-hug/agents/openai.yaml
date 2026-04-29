@@ -1,0 +1,7 @@
+interface:
+  display_name: "need-a-hug"
+  short_description: "Warm comfort when the user feels overwhelmed."
+  default_prompt: "Use $need-a-hug to comfort me for a moment before we return to the task."
+
+policy:
+  allow_implicit_invocation: true
