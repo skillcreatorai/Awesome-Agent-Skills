@@ -125,6 +125,10 @@ This repo curates the best in one place. Quality over quantity. All skills follo
 | [internal-comms](./internal-comms) | Write internal communications and status reports | `npx ai-agent-skills install internal-comms` |
 | [lead-research-assistant](./lead-research-assistant) | Identify and qualify high-quality leads | `npx ai-agent-skills install lead-research-assistant` |
 | [job-application](https://github.com/skillcreatorai/Ai-Agent-Skills) | Cover letters and applications using your CV | `npx ai-agent-skills install job-application` |
+| [ICP Definition Builder](https://github.com/mambalabsdev/mamba-labs-skills/tree/main/skills/icp-definition-builder) | Build a structured Ideal Customer Profile from a business description | External |
+| [Cold Email Structure Checker](https://github.com/mambalabsdev/mamba-labs-skills/tree/main/skills/cold-email-structure-checker) | Audit a cold email draft against a 7-point outbound framework | External |
+| [Domain Health Pre-Check](https://github.com/mambalabsdev/mamba-labs-skills/tree/main/skills/domain-health-precheck) | Scan SPF, DKIM, DMARC records and blacklist status for a sending domain | External |
+| [Hiring Signal Spotter](https://github.com/mambalabsdev/mamba-labs-skills/tree/main/skills/hiring-signal-spotter) | Detect GTM hiring signals at any company and generate an outbound angle | External |
 
 ### Communication & Writing
 
