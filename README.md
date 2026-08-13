@@ -143,6 +143,7 @@ This repo curates the best in one place. Quality over quantity. All skills follo
 | [slack-gif-creator](./slack-gif-creator) | Create animated GIFs optimized for Slack | `npx ai-agent-skills install slack-gif-creator` |
 | [theme-factory](./theme-factory) | Apply professional font and color themes | `npx ai-agent-skills install theme-factory` |
 | [video-downloader](./video-downloader) | Download videos from YouTube and other platforms | `npx ai-agent-skills install video-downloader` |
+| [video-production-router](./video-production-router) | Route and lock generation, composition, editing, or mixed video workflows | `npx ai-agent-skills install video-production-router` |
 | [algorithmic-art](https://github.com/skillcreatorai/Ai-Agent-Skills) | Generative art with p5.js | `npx ai-agent-skills install algorithmic-art` |
 
 ### Productivity & Organization
