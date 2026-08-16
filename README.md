@@ -98,6 +98,7 @@ This repo curates the best in one place. Quality over quantity. All skills follo
 | [webapp-testing](./webapp-testing) | Test web applications using Playwright automation | `npx ai-agent-skills install webapp-testing` |
 | [changelog-generator](./changelog-generator) | Create user-facing changelogs from git commits | `npx ai-agent-skills install changelog-generator` |
 | [frontend-design](https://github.com/skillcreatorai/Ai-Agent-Skills) | Production-grade UI components and styling | `npx ai-agent-skills install frontend-design` |
+| [UIZZE anti-ui-slop](https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop) | Stop generic UI before it ships with product-specific evidence and a hard finish gate | External |
 | [code-review](https://github.com/skillcreatorai/Ai-Agent-Skills) | Automated PR review patterns | `npx ai-agent-skills install code-review` |
 | [code-refactoring](https://github.com/skillcreatorai/Ai-Agent-Skills) | Systematic code improvement techniques | `npx ai-agent-skills install code-refactoring` |
 | [backend-development](https://github.com/skillcreatorai/Ai-Agent-Skills) | APIs, databases, server architecture | `npx ai-agent-skills install backend-development` |
