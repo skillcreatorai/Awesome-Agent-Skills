@@ -114,6 +114,7 @@ This repo curates the best in one place. Quality over quantity. All skills follo
 |-------|-------------|---------|
 | [CSV Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) | Analyze CSV files and generate insights with visualizations | External |
 | [database-design](https://github.com/skillcreatorai/Ai-Agent-Skills) | Schema design and optimization | `npx ai-agent-skills install database-design` |
+| [multi-source-search](./multi-source-search) | Cross-validate independent sources and produce an offline-verifiable evidence ledger | `npx ai-agent-skills install multi-source-search` |
 
 ### Business & Marketing
 
