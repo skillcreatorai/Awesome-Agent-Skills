@@ -114,6 +114,7 @@ This repo curates the best in one place. Quality over quantity. All skills follo
 |-------|-------------|---------|
 | [CSV Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) | Analyze CSV files and generate insights with visualizations | External |
 | [database-design](https://github.com/skillcreatorai/Ai-Agent-Skills) | Schema design and optimization | `npx ai-agent-skills install database-design` |
+| [Kymira honest-dataviz](https://github.com/dylnbaker15/claude-skills-for-business-intelligence) | Certified BI charts that read at a glance and never imply more certainty than the data has; ships with the certified-BI doctrine | External |
 
 ### Business & Marketing
 
