@@ -107,6 +107,7 @@ This repo curates the best in one place. Quality over quantity. All skills follo
 | [D3.js Visualization](https://github.com/chrisvoncsefalvay/claude-d3js-skill) | D3 charts and interactive data visualizations | External |
 | [Playwright Automation](https://github.com/lackeyjb/playwright-skill) | Browser automation for testing web apps | External |
 | [iOS Simulator](https://github.com/conorluddy/ios-simulator-skill) | Interact with iOS Simulator for testing | External |
+| [Epistemic Alignment](https://github.com/netsky-prod/epistemic-alignment) | Risk-calibrated product and architecture alignment before implementation | External |
 
 ### Data & Analysis
 
