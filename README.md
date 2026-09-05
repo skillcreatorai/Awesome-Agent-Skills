@@ -133,6 +133,7 @@ This repo curates the best in one place. Quality over quantity. All skills follo
 | [content-research-writer](./content-research-writer) | Research and write high-quality content with citations | `npx ai-agent-skills install content-research-writer` |
 | [meeting-insights-analyzer](./meeting-insights-analyzer) | Analyze meeting transcripts for behavioral patterns | `npx ai-agent-skills install meeting-insights-analyzer` |
 | [code-documentation](https://github.com/skillcreatorai/Ai-Agent-Skills) | Generate docs from code | `npx ai-agent-skills install code-documentation` |
+| [communication-protocol-setup](./communication-protocol-setup) | Set up AI communication style via interactive Q&A | `npx ai-agent-skills install communication-protocol-setup` |
 
 ### Creative & Media
 
