@@ -149,6 +149,7 @@ This repo curates the best in one place. Quality over quantity. All skills follo
 
 | Skill | Description | Install |
 |-------|-------------|---------|
+| [book-to-mentor](./book-to-mentor) | Turn books and documents into source-grounded learning mentors | `npx skills add gengwenhao/book-to-mentor` |
 | [file-organizer](./file-organizer) | Intelligently organize files and find duplicates | `npx ai-agent-skills install file-organizer` |
 | [invoice-organizer](./invoice-organizer) | Organize invoices and receipts for tax prep | `npx ai-agent-skills install invoice-organizer` |
 | [raffle-winner-picker](./raffle-winner-picker) | Randomly select winners for giveaways | `npx ai-agent-skills install raffle-winner-picker` |
