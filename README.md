@@ -155,6 +155,7 @@ This repo curates the best in one place. Quality over quantity. All skills follo
 | [jira-issues](https://github.com/skillcreatorai/Ai-Agent-Skills) | Create and manage Jira issues from natural language | `npx ai-agent-skills install jira-issues` |
 | [qa-regression](https://github.com/skillcreatorai/Ai-Agent-Skills) | Automated regression testing with Playwright | `npx ai-agent-skills install qa-regression` |
 | [llm-application-dev](https://github.com/skillcreatorai/Ai-Agent-Skills) | Build LLM-powered applications | `npx ai-agent-skills install llm-application-dev` |
+| [agent-skills-en](https://github.com/alapha888/agent-skills-en) | Five free MIT skills for everyday knowledge work: doc proofreading, commit messages, meeting notes, code review, deep research | External |
 
 ### Collaboration & Project Management
 
