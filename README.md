@@ -155,6 +155,7 @@ This repo curates the best in one place. Quality over quantity. All skills follo
 | [jira-issues](https://github.com/skillcreatorai/Ai-Agent-Skills) | Create and manage Jira issues from natural language | `npx ai-agent-skills install jira-issues` |
 | [qa-regression](https://github.com/skillcreatorai/Ai-Agent-Skills) | Automated regression testing with Playwright | `npx ai-agent-skills install qa-regression` |
 | [llm-application-dev](https://github.com/skillcreatorai/Ai-Agent-Skills) | Build LLM-powered applications | `npx ai-agent-skills install llm-application-dev` |
+| [session-handoff-kit](https://github.com/alapha888/session-handoff-kit) | Free MIT kit bundling a session-handoff skill, context-hygiene checklist, and handoff note template for clean context transfer between AI coding sessions | External |
 
 ### Collaboration & Project Management
 
