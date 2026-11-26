@@ -125,6 +125,7 @@ This repo curates the best in one place. Quality over quantity. All skills follo
 | [internal-comms](./internal-comms) | Write internal communications and status reports | `npx ai-agent-skills install internal-comms` |
 | [lead-research-assistant](./lead-research-assistant) | Identify and qualify high-quality leads | `npx ai-agent-skills install lead-research-assistant` |
 | [job-application](https://github.com/skillcreatorai/Ai-Agent-Skills) | Cover letters and applications using your CV | `npx ai-agent-skills install job-application` |
+| [backlink-brand-mention-builder](https://github.com/abdulrahimabid96-hue/backlink-brand-mention-builder) | Automate white-hat backlinks, guest posts, and AI citations (GEO/AISEO) | [Agensi.io](https://www.agensi.io/skills/backlink-brand-mention-builder-white-hat-seo-geo) |
 
 ### Communication & Writing
 
